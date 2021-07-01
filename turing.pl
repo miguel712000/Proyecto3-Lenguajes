@@ -3,7 +3,6 @@
 %inst(q0, v, qf, 1, detener).
 
 :- ensure_loaded('cintaEjemplo.pl').
-:- init_tape/1.
 
 % Simulador
 
