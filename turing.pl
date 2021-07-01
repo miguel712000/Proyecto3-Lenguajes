@@ -2,7 +2,7 @@
 %inst(q0, 1, q0, 0, der).
 %inst(q0, v, qf, 1, detener).
 
-:- ensure_loaded('cintaInicial.pl').
+:- ensure_loaded('cintaEjemplo.pl').
 :- init_tape/1.
 
 % Simulador
